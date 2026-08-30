@@ -32,3 +32,4 @@ jobs:
         name: VooOffline - achou da onde
         path: app/build/outputs/apk/release/app-release.apk
         
+        
